@@ -3,7 +3,6 @@
 # CSCB58 Winter 2022 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Yu Yang (Kenny) Chen, 1005843063, cheny843, kennyyuyang.chen@mail.utoronto.ca
 #
 # Bitmap display configuration:
 # - Unit width in pixels: 8
