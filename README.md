@@ -46,12 +46,5 @@ Welcome to the Mouse & Cheese platformer game written entirely in MIPS assembly.
 
 The game leverages MIPS' capability to handle graphics in certain simulators and offers a unique assembly-level coding experience. The intricacies of game logic in MIPS assembly bring forth a deep appreciation for high-level programming languages.
 
-### 🤝 Contribution:
-
-We absolutely appreciate contributions! If you have any optimizations, level designs, or general improvements in mind, feel free to fork this repository, make your changes, and submit a pull request.
-
-### 📞 Support:
-
-Encounter issues or bugs? Raise an issue here on GitHub or contact [maintainer_email@example.com](mailto:maintainer_email@example.com) for support.
 
 ---
